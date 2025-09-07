@@ -13,11 +13,11 @@ Este proyecto consiste en la extracción, almacenamiento y análisis de datos mu
 
 3. **Consultas y análisis**
    - Realización de consultas SQL para responder preguntas como:
-     - ¿Qué artista tiene más álbumes?
-     - ¿Qué artista tiene más reproducciones?
-     - ¿Cuál es la canción más popular?
-     - ¿Quién es el artista mejor valorado?
-     - Top 5 canciones más populares.
+     - ¿Qué artista tiene más álbumes? Adele.
+     - ¿Qué artista tiene más reproducciones? Coldplay.
+     - ¿Cuál es la canción más popular? Viva la vida.
+     - ¿Quién es el artista mejor valorado? Coldplay.
+     - Top 5 canciones más populares: Viva la vida, Yellow, Sparks, The scientist y Rolling in the deep.
 
 ## 🚀 Cómo usar
 1. **Clona este repositorio**
