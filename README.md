@@ -43,9 +43,7 @@ Este proyecto consiste en la extracción, almacenamiento y análisis de datos mu
    - Realiza las consultas SQL propuestas para analizar los datos.
 5. **Ejecuta la presentación**
    - https://view.genially.com/68b1c8a1019cad2f86825af6/presentation-roxymusic
-
 ![](https://github.com/Roxy-5/Lastfm_music/blob/2936c098e709f2a03df77f01f094174f6d3b78ed/logo_lastfm2.png)
-
 ### 🪐 Autor
 
 Rocío Ramírez
