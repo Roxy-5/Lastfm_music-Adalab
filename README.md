@@ -6,7 +6,7 @@ Este proyecto consiste en la extracción, almacenamiento y análisis de datos mu
 
 ## 📋 Fases del proyecto
 1. **Extracción de datos**
-   - Obtención de datos de artistas, álbumes y canciones desde las APIs de Last.fm y Spotify.
+   - Obtención de datos de artistas, álbumes y canciones desde la API de Last.fm.
    - Guardado de los datos en archivos CSV.
 
 2. **Diseño y creación de la base de datos**
