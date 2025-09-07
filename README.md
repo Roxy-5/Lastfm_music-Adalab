@@ -20,7 +20,7 @@ Este proyecto consiste en la extracción, almacenamiento y análisis de datos mu
      - Top 5 canciones más populares.
 
 ## 🚀 Cómo usar
-1. Clona este repositorio.
+1. **Clona este repositorio**
 2. **Instala las dependencias necesarias**
    - Python 3.x
    - pandas
@@ -33,13 +33,14 @@ Este proyecto consiste en la extracción, almacenamiento y análisis de datos mu
    ```sh
    pip install pandas requests numpy mysql-connector-python
    ```
-3. Ejecuta el proyecto: https://view.genially.com/68b1c8a1019cad2f86825af6/presentation-roxymusic
-4. **Obtén tus claves de API**
+3. **Obtén tus claves de API**
    - Regístrate en [Last.fm API](https://www.last.fm/api) 
    - Añade tu clave en las celdas correspondientes del notebook.
-3. **Ejecuta el notebook**
+4. **Ejecuta el notebook**
    - Sigue el flujo del notebook para extraer los datos, guardarlos en CSV y cargarlos en la base de datos.
    - Realiza las consultas SQL propuestas para analizar los datos.
+5. **Ejecuta la presentación**
+   - https://view.genially.com/68b1c8a1019cad2f86825af6/presentation-roxymusic
 
 ### 🪐 Autor
 
