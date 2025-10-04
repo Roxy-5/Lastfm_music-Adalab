@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Roxy-5/Evaluacion1-Adalab/main/image.jpg)
+![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg?raw=true)
 
 ## 🎶 Lastfm_music
 
@@ -23,7 +23,7 @@ Este proyecto consiste en la extracción, almacenamiento y análisis de datos mu
 
 ## 🚀 Cómo usar
 1. **Clona este repositorio**
-2. **Instala las dependencias necesarias**
+2. **Instala las librerías**
    - Python 3.x
    - pandas
    - requests
