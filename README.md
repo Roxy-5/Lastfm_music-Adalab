@@ -25,7 +25,7 @@ Este proyecto consiste en la extracción, almacenamiento y análisis de datos mu
 1. **Clona este repositorio**
 2. **Instala las librerías**
    
-   Puedes instalar los paquetes ejecutando:
+   Puedes descargar los paquetes ejecutando:
    ```sh
    pip install pandas requests numpy mysql-connector-python
    ```
