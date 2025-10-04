@@ -23,7 +23,7 @@ Este proyecto consiste en la extracción, almacenamiento y análisis de datos mu
 
 ## 🚀 Cómo usar
 1. **Clona este repositorio**
-2. **Instala las librerías**
+2. **Instala las librerías en Visual Code**
    - Python 3.x
    - pandas
    - requests
@@ -38,7 +38,7 @@ Este proyecto consiste en la extracción, almacenamiento y análisis de datos mu
 3. **Obtén tus claves de API**
    - Regístrate en [Last.fm API](https://www.last.fm/api) 
    - Añade tu clave en las celdas correspondientes del notebook.
-4. **Ejecuta el notebook**
+4. **Ejecuta las celdas de código de una en una**
    - Sigue el flujo del notebook para extraer los datos, guardarlos en CSV y cargarlos en la base de datos.
    - Realiza las consultas SQL propuestas para analizar los datos.
 5. **Ejecuta la presentación**
