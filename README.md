@@ -23,7 +23,7 @@ Este proyecto consiste en la extracción, almacenamiento y análisis de datos mu
 
 ## 🚀 Cómo usar
 1. **Clona este repositorio**
-2. **Instala las librerías en Visual Code**
+2. **Instala las librerías en VSC**
    Puedes instalar los paquetes ejecutando:
    ```sh
    pip install pandas requests numpy mysql-connector-python
