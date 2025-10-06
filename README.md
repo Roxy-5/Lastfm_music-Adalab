@@ -27,6 +27,7 @@ Este proyecto consiste en la extracción, almacenamiento y análisis de datos mu
    
    Puedes descargar los paquetes ejecutando:
    ```sh
+   pip install pylast (opcional)
    pip install pandas requests numpy mysql-connector-python
    ```
 4. **Obtén tus claves de API**
