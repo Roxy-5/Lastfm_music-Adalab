@@ -1,6 +1,6 @@
 ![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg?raw=true)
 
-## 🎤 Lastfm_music
+## 🎵 Lastfm_music
 
 Este proyecto consiste en la extracción, almacenamiento y análisis de datos musicales utilizando la API de Last.fm. El objetivo es crear una base de datos relacional con información de artistas, álbumes y canciones para responder a preguntas clave mediante consultas SQL.
 
