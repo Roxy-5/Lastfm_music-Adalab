@@ -38,7 +38,7 @@ Este proyecto consiste en la extracción, almacenamiento y análisis de datos mu
 6. **Ejecuta la presentación**
    - https://view.genially.com/68b1c8a1019cad2f86825af6/presentation-roxymusic
    
-![](https://github.com/Roxy-5/Lastfm_music-Adalab/blob/main/logo_lastfm.png?raw=true)
+![](https://github.com/Roxy-5/Spotify_music-Adalab/blob/main/logo_spotify.png?raw=true)
 ### 🪐 Autor
 
 Rocío Ramírez
